@@ -1,0 +1,24 @@
+title: Investor
+email:
+description: Move Forward...
+author: Harsh
+url: ""
+baseurl: "Harshbhut.github.io"
+
+# Social Profiles
+twitter_username: harshbhut5
+linkedin_username: harshbhut
+github_username:
+facebook_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics: UA-92200835-1
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
