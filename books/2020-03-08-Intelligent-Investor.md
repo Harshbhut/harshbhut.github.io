@@ -5,7 +5,7 @@ title: "Intelligent Investor"
 subtitle: "Best book ever wrriten on investing so far"
 date: 2020-03-08 3:30:00
 background: ""
-permalink: "/intellignet-investor.html"
+permalink: "/intellignet-investor.html/"
 ---
 
 <h2 class="section-heading">Intelligent Investor</h2>
