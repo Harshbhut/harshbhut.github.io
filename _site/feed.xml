@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-09T22:10:14+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Investor</title><subtitle>Move Forward...</subtitle><author><name>Harsh</name></author><entry><title type="html">Fundamental of Stock Market - 1</title><link href="http://localhost:4000/funamental.html/" rel="alternate" type="text/html" title="Fundamental of Stock Market - 1" /><published>2020-03-07T09:00:00+05:30</published><updated>2020-03-07T09:00:00+05:30</updated><id>http://localhost:4000/AXIS</id><content type="html" xml:base="http://localhost:4000/funamental.html/">&lt;p&gt;
-  Hello Harsh
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-15T15:54:16+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Investor</title><subtitle>Move Forward...</subtitle><author><name>Harsh</name></author><entry><title type="html">Basics of Investing</title><link href="http://localhost:4000/basics-of-investing.html/" rel="alternate" type="text/html" title="Basics of Investing" /><published>2020-03-07T09:00:00+05:30</published><updated>2020-03-07T09:00:00+05:30</updated><id>http://localhost:4000/Basics%20of%20Investing</id><content type="html" xml:base="http://localhost:4000/basics-of-investing.html/">&lt;h2 class=&quot;section-heading&quot; style=&quot;color: #f6461a&quot;&gt;
+  - Why we need to Invest ?
+&lt;/h2&gt;
+&lt;p&gt;
+  Call Given on: 07/03/2020 &lt;br /&gt;Price Range : Buy @ &lt;b&gt; 2010 - 1960 &lt;/b&gt; with
+  Stop loss : &lt;b&gt; 1950 &lt;/b&gt; &lt;br /&gt;
+  Target: - &lt;b&gt;2300&lt;/b&gt;
 &lt;/p&gt;
 
 &lt;!-- &lt;blockquote class=&quot;blockquote&quot;&gt;
@@ -8,6 +13,12 @@ Science has not yet mastered prophecy. We predict too much for the next year and
 yet far too little for the next ten.
 &lt;/blockquote&gt; --&gt;
 
+&lt;img
+  class=&quot;img-fluid&quot;
+  src=&quot;/img/HDFC/technical-hdfc.png&quot;
+  alt=&quot;Technicals HDFC&quot;
+/&gt;
+
 &lt;!-- &lt;span class=&quot;caption text-muted&quot;
   &gt;To go places and do things that have never been done before – that’s what
-  living is all about.&lt;/span&gt; --&gt;</content><author><name>Harsh</name></author><summary type="html">Hello Harsh</summary></entry></feed>
+  living is all about.&lt;/span&gt; --&gt;</content><author><name>Harsh</name></author><summary type="html">- Why we need to Invest ? Call Given on: 07/03/2020 Price Range : Buy @ 2010 - 1960 with Stop loss : 1950 Target: - 2300</summary></entry></feed>
