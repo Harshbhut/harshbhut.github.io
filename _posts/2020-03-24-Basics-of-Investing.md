@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Basics of Investing"
-subtitle: "First step towards financial independent"
-date: 2020-03-07 3:30:00
+title: "Financial Independence"
+subtitle: "A Promising Path..."
+date: 2020-03-24 15:30:00
 background: "/img/bg-fundamental.jpg"
 permalink: "/basics-of-investing.html/"
 ---
