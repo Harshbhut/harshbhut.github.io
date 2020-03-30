@@ -1,8 +1,9 @@
 // Global styling for this template
 body {
-  font-size: 18px;
+  font-size: 20px;
   color: $gray-900;
-  @include serif-font;
+  font-family: "Brasley", serif;
+  // @include serif-font;
 }
 
 p {
