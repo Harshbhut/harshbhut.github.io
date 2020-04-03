@@ -4,26 +4,27 @@
   "version": "4.0.9",
   "description": "",
   "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
-    "template"
+    "Investing",
+    "Stock Market",
+    "Technical Analysis",
+    "Book Review",
+    "Financial Independence",
+    "Trading",
+    "Investor"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
+  "homepage": "https://harshbhut.github.io/",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "",
+    "email": "bhut.harshkumar@gmail.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Harsh",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Harsh Bhut (https://harshbhut.in/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
+    "url": "https://github.com/Harshbhut/Harshbhut.github.io"
   },
   "dependencies": {
     "bootstrap": "4.3.1",
