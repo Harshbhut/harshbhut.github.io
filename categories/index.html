@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Categories
-background: "/img/categories.jpg"
+background: "/img/categories.webp"
 ---
 
 <div id="archives">
@@ -11,14 +11,14 @@ background: "/img/categories.jpg"
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h3 class="category-head" style="color: #f6461a ;">{{ category_name }}</h3>
+    <h3 class="category-head" style="color: #f6461a;">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
       <li>
         <span>{{ post.date | date_to_string }}</span> &nbsp;
-        <h4 style="display:inline-block;">
-          <a href="{{ site.baseurl }}{{ post.url }}" style="color: #651FFF;"
+        <h4 style="display: inline-block;">
+          <a href="{{ site.baseurl }}{{ post.url }}" style="color: #651fff;"
             >{{post.title}} - {{post.subtitle}}</a
           >
         </h4>
