@@ -1,15 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-11T19:21:05+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Investor</title><subtitle>Move Forward...</subtitle><author><name>Harsh</name></author><entry><title type="html">Financial Independence</title><link href="http://localhost:4000/financial-independence.html/" rel="alternate" type="text/html" title="Financial Independence" /><published>2020-04-11T02:40:00+05:30</published><updated>2020-04-11T02:40:00+05:30</updated><id>http://localhost:4000/financial-independence</id><content type="html" xml:base="http://localhost:4000/financial-independence.html/">&lt;!-- &lt;h2 class=&quot;section-heading&quot; style=&quot;color: #f6461a&quot;&gt;
-  - Why we need to Invest ?
-&lt;/h2&gt; --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-12T19:37:57+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Finvestik</title><subtitle>The most important investment you can make is in yourself.</subtitle><author><name>Harsh</name></author><entry><title type="html">Financial Independence</title><link href="http://localhost:4000/financial-independence.html/" rel="alternate" type="text/html" title="Financial Independence" /><published>2020-04-11T00:00:00+05:30</published><updated>2020-04-11T00:00:00+05:30</updated><id>http://localhost:4000/financial-independence</id><content type="html" xml:base="http://localhost:4000/financial-independence.html/">&lt;h4 style=&quot;color: #000080;&quot;&gt;
+  What is Financial Independence ?
+&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+  Financial independence is the status of having enough income to pay one's
+  living expenses for the rest of one's life without having to be employed or
+  dependent on others.Income earned without having to work a job is commonly
+  referred to as passive income. - Wikipedia
+&lt;/blockquote&gt;
 
 &lt;p style=&quot;text-align: left;&quot;&gt;
-  Hi Friends, From the money perspective we all want to become financially
-  stable so we will take care of our expenses and our retirement. For that we
-  work... earn... spend and somehow save from our salary or business. By
-  following this pattern are we sure that we will have peacefull retirement and
-  enough fund for
-  &lt;b&gt;emergency event&lt;/b&gt; ? Are we sure that we are
-  &lt;b&gt; financially independent &lt;/b&gt; to handle such situation ?
+  Now, You might think that why am I reading this ? Let me close the page and do
+  my work but wait hold on for a minute. Just ask these questions to yourself.
+&lt;/p&gt;
+
+&lt;p style=&quot;font-style: italic;&quot;&gt;
+  - Do I have any passive income ? &lt;br /&gt;
+  - Do I have emergency fund that last 6 months ? &lt;br /&gt;
+  - Do I have plan my life after retirment ? &lt;br /&gt;- Do I have any financial
+  stability that pays my debt if I lost my job or businees ?
+&lt;/p&gt;
+
+&lt;p&gt;
+  If you don't have answers then you should consider to change your spending and
+  saving habit so it will help you to save from falling into financial trap.
 &lt;/p&gt;
 
 &lt;h5&gt;
@@ -23,12 +37,12 @@
 
 &lt;img
   srcset=&quot;
-    /img/emergency-saving-pattern-360w.jpg 360w,
-    /img/emergency-saving-pattern.jpg      800w
+    /img/posts/emergency-saving-pattern-360w.jpg 360w,
+    /img/posts/emergency-saving-pattern.jpg      800w
   &quot;
   sizes=&quot;(max-width: 600px) 360px,
             800px&quot;
-  src=&quot;/img/emergency-saving-pattern.jpg&quot;
+  src=&quot;/img/posts/emergency-saving-pattern.jpg&quot;
   alt=&quot;Emergency Saving Pattern&quot;
 /&gt;
 
@@ -36,28 +50,22 @@
 
 &lt;img
   srcset=&quot;
-    /img/monthly-income-save-360w.jpg 360w,
-    /img/monthly-income-save.jpg      800w
+    /img/posts/monthly-income-save-360w.jpg 360w,
+    /img/posts/monthly-income-save.jpg      800w
   &quot;
   sizes=&quot;(max-width: 600px) 360px,
             800px&quot;
-  src=&quot;/img/monthly-income-save.jpg&quot;
+  src=&quot;/img/posts/monthly-income-save.jpg&quot;
   alt=&quot;Monthly Income Saving&quot;
 /&gt;
 
 &lt;!-- &lt;img src=&quot;/img/monthly-income-save.webp&quot; alt=&quot;Monthly Income Saving&quot; /&gt; --&gt;
-&lt;h6&gt;sources:- &lt;a href=&quot;https://www.dealsunny.com&quot;&gt;DealSunny&lt;/a&gt;&lt;/h6&gt;
+&lt;h6&gt;sources:- &lt;a href=&quot;https://www.dealsunny.com/blog&quot;&gt;DealSunny&lt;/a&gt;&lt;/h6&gt;
 
 &lt;p&gt;
-  Now, by looking at surveys, If you are in a situation that you might change
-  your spending habits then you should move your step towards to achieve
-  financial independence.
-&lt;/p&gt;
-
-&lt;p&gt;
-  You might think that how can I achieve that? Not to worry friends, We will
-  help you to achieve your financial independence. So keep calm and Let's begin
-  our journey ✌️😀
+  You might think that all these things looks good on paper but how can I
+  achieve that? Not to worry friends, We will together achieve
+  &lt;b&gt;Financial Independence&lt;/b&gt;. So keep calm and Let's begin our journey ✌️😀
 &lt;/p&gt;
 
 &lt;h6
@@ -75,4 +83,4 @@
   &quot;
 &gt;
   Jai Hind &lt;img src=&quot;/img/flag.png&quot; alt=&quot;Flag&quot; /&gt;
-&lt;/h6&gt;</content><author><name>Harsh</name></author><summary type="html"></summary></entry></feed>
+&lt;/h6&gt;</content><author><name>Harsh</name></author><summary type="html">What is Financial Independence ? Financial independence is the status of having enough income to pay one's living expenses for the rest of one's life without having to be employed or dependent on others.Income earned without having to work a job is commonly referred to as passive income. - Wikipedia</summary></entry></feed>
