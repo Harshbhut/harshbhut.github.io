@@ -47,12 +47,12 @@ blockquote {
 
 ::-moz-selection {
   color: #fff;
-  background: #ee5c37;
+  background: #283593;
   text-shadow: none; }
 
 ::selection {
   color: #fff;
-  background: #ee5c37;
+  background: #283593;
   text-shadow: none; }
 
 img::selection {
@@ -120,11 +120,11 @@ img::-moz-selection {
         #mainNav.is-fixed .navbar-brand {
           color: #212529; }
           #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
-            color: #ee5c37; }
+            color: #283593; }
         #mainNav.is-fixed .navbar-nav > li.nav-item > a {
           color: #212529; }
           #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-            color: #ee5c37; }
+            color: #283593; }
       #mainNav.is-visible {
         /* if the user changes the scrolling direction, we show the header */
         -webkit-transform: translate3d(0, 100%, 0);
@@ -208,7 +208,7 @@ header.masthead {
   color: #212529; }
   .post-preview > a:focus, .post-preview > a:hover {
     text-decoration: none;
-    color: #ee5c37; }
+    color: #283593; }
   .post-preview > a > .post-title {
     font-size: 30px;
     margin-top: 30px;
@@ -226,7 +226,7 @@ header.masthead {
     color: #212529; }
     .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
       text-decoration: underline;
-      color: #ee5c37; }
+      color: #283593; }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px; } }
@@ -276,7 +276,7 @@ header.masthead {
   opacity: 1; }
 
 .floating-label-form-group-with-focus label {
-  color: #ee5c37; }
+  color: #283593; }
 
 form .form-group:first-child .floating-label-form-group {
   border-top: 1px solid #dee2e6; }
@@ -301,12 +301,12 @@ footer {
   font-family: brasley; }
 
 .btn-primary {
-  background-color: #ee5c37;
-  border-color: #ee5c37; }
+  background-color: #283593;
+  border-color: #283593; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: #eb3f14 !important;
-    border-color: #eb3f14 !important; }
+    background-color: #202a75 !important;
+    border-color: #202a75 !important; }
 
 .btn-lg {
   font-size: 16px;
