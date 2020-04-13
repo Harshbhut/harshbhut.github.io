@@ -42,7 +42,8 @@ layout: default
 
         <hr />
 
-        {% include share.html %}
+        {% if post.comments != 0 %} {% include disqus.html %} {% endif %} {%
+        include share.html %}
 
         <div class="clearfix">
           {% if page.previous.url %}
