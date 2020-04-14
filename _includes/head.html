@@ -46,7 +46,11 @@
   {% if page.summary %}
   <meta name="twitter:description" content="{{ page.summary }}" />
   {% else %}
-  <meta name="twitter:description" content="{{ page.content }}" />
+  <meta
+    name="twitter:description"
+    content="{{ page.content | strip_html | xml_escape
+    | truncate: 200 }}"
+  />
   {% endif %} {% if page.background %}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content="{{ site.url }}{{ page.background}}" />
