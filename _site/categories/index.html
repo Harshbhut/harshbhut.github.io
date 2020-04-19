@@ -60,11 +60,24 @@
   <meta name="twitter:title" content="Categories" />
 
   
-  <meta name="twitter:description" content="The most important investment you can make is in yourself." />
-   
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:image" content="" />
+  <meta
+    name="twitter:description"
+    content="
+  {% for category in site.categories %}
   
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    
+    
+
+    {{ category_name }}
+    
+    {% for post in site.categories[category..."
+  />
+   
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="http://localhost:4000/img/categories.webp" />
+  
+
   <!-- end of Twitter cards -->
 </head>
 
@@ -163,6 +176,17 @@
 
     <h3 class="category-head" style="color: #f6461a;">Finance</h3>
     <a name="Finance"></a>
+    
+    <article class="archive-item">
+      <li>
+        <span>18 Apr 2020</span> &nbsp;
+        <h4 style="display: inline-block;">
+          <a href="/habits.html/" style="color: #651fff;"
+            >Habits - A First Step...</a
+          >
+        </h4>
+      </li>
+    </article>
     
     <article class="archive-item">
       <li>
