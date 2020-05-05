@@ -1,4 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-29T20:56:49+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Finvestik</title><subtitle>The most important investment you can make is in yourself.</subtitle><author><name>Harsh</name></author><entry><title type="html">Smart Goals</title><link href="http://localhost:4000/smartgoals.html/" rel="alternate" type="text/html" title="Smart Goals" /><published>2020-04-29T00:00:00+05:30</published><updated>2020-04-29T00:00:00+05:30</updated><id>http://localhost:4000/smart-goals</id><content type="html" xml:base="http://localhost:4000/smartgoals.html/">&lt;!-- &lt;h4 style=&quot;color: #000080;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-05T19:32:00+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Finvestik</title><subtitle>The most important investment you can make is in yourself.</subtitle><author><name>Harsh</name></author><entry><title type="html">Compound Interest</title><link href="http://localhost:4000/compound-interest.html/" rel="alternate" type="text/html" title="Compound Interest" /><published>2020-05-06T00:00:00+05:30</published><updated>2020-05-06T00:00:00+05:30</updated><id>http://localhost:4000/compound-interest</id><content type="html" xml:base="http://localhost:4000/compound-interest.html/">&lt;blockquote class=&quot;blockquote&quot;&gt;
+  &quot;The strongest force in the universe is Compound Interest&quot; - Albert Einstein
+&lt;/blockquote&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Now, We have decided our smart goals and start saving money to achieve
+  financial independence, But without compounding nothing can be achievable in
+  financial world. Compounding leads your money to works for you instead you
+  works for money, So let's checkout how compounding works.
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Suppose you have invested 3,00,000 rupee in fixed deposit at intrest rate of
+  8% what will be the value after 10 years ? We will calculate the return by
+  comparing compound interest vs simple interest.
+&lt;/p&gt;
+&lt;img
+  src=&quot;/img/posts/Compound Interest vs Simple Interest.PNG&quot;
+  style=&quot;
+    width: 100%;
+    height: auto !important;
+    max-width: 1000px;
+    -ms-interpolation-mode: bicubic;
+  &quot;
+  alt=&quot;Smart Goals&quot;
+/&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  You can download the excel file from
+  &lt;a
+    target=&quot;_blank&quot;
+    href=&quot;https://drive.google.com/open?id=1w69FlBF4cab_cDwRGS4dt6bIbBCy9nrc&quot;
+    style=&quot;color: red;&quot;
+    &gt;here&lt;/a
+  &gt;. As we can see from table as more time passes more chances we give our money
+  to compounded.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Now, you might have question can I stop parking my money into saving account
+  and start investing in FD? That's not the case we should never parked all our
+  money into single instrument. We will check the various investment option and
+  risk associated with them in coming chapters.
+&lt;/p&gt;
+
+&lt;h4 style=&quot;color: #000080;&quot;&gt;
+  Rule of 72
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  If Someone should ask you at the 8% interest rate in how much time my money
+  will be double ? You might take some time to answer this qurstion but this
+  will be easily answerable with the rule of 72.
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Divide the 72 by rate of interest (8%) to calculate in how much time your
+  money will be double, Checkout the previous compounding table to identify
+  calculation. &lt;br /&gt;&lt;br /&gt;
+  &lt;span style=&quot;color: royalblue;&quot;&gt;72 / 8 = 9 Years&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  With the help of this rule we can identify the time horizon for money to
+  duplicate itself in investing so we can plan our investment accoridingly.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Now, that we have learned the basic of financial independence like How money
+  works ? What should be our goals ? How to save money ? this all concepts are
+  just like book theories. Now, We will deep dive into practical things like
+  various investment options in market, insurance Planning, tax saving options
+  in coming blogs upto that &quot;STAY HOME STAY SAFE&quot;.✌️😀
+&lt;/p&gt;
+
+&lt;h4&gt;
+  &lt;span style=&quot;color: #000080;&quot;
+    &gt;Books for Financial Planning for Beginners: - &lt;br
+  /&gt;&lt;/span&gt;
+&lt;/h4&gt;
+&lt;a
+  target=&quot;_blank&quot;
+  href=&quot;https://www.amazon.in/gp/product/1612680194/ref=as_li_tl?ie=UTF8&amp;camp=3638&amp;creative=24630&amp;creativeASIN=1612680194&amp;linkCode=as2&amp;tag=harshbhut-21&amp;linkId=43bfb717c0ad0523297782560914b29a&quot;
+  &gt;- Rich Dad Poor Dad&lt;/a
+&gt;&lt;img
+  src=&quot;//ir-in.amazon-adsystem.com/e/ir?t=harshbhut-21&amp;l=am2&amp;o=31&amp;a=1612680194&quot;
+  width=&quot;1&quot;
+  height=&quot;1&quot;
+  border=&quot;0&quot;
+  alt=&quot;&quot;
+  style=&quot;border: none !important; margin: 0px !important;&quot;
+/&gt;
+&lt;br /&gt;
+&lt;a
+  target=&quot;_blank&quot;
+  href=&quot;https://www.amazon.in/gp/product/1595555277/ref=as_li_tl?ie=UTF8&amp;camp=3638&amp;creative=24630&amp;creativeASIN=1595555277&amp;linkCode=as2&amp;tag=harshbhut-21&amp;linkId=0386f82e16317a91eb754d72aa256708&quot;
+  &gt;- The Total Money Makeover: Classic Edition: A Proven Plan for Financial
+  Fitness&lt;/a
+&gt;&lt;img
+  src=&quot;//ir-in.amazon-adsystem.com/e/ir?t=harshbhut-21&amp;l=am2&amp;o=31&amp;a=1595555277&quot;
+  width=&quot;1&quot;
+  height=&quot;1&quot;
+  border=&quot;0&quot;
+  alt=&quot;&quot;
+  style=&quot;border: none !important; margin: 0px !important;&quot;
+/&gt;
+&lt;br /&gt;
+&lt;a
+  target=&quot;_blank&quot;
+  href=&quot;https://www.amazon.in/gp/product/1939438632/ref=as_li_tl?ie=UTF8&amp;camp=3638&amp;creative=24630&amp;creativeASIN=1939438632&amp;linkCode=as2&amp;tag=harshbhut-21&amp;linkId=fdb00ad8f3f6702222be899c50952a04&quot;
+  &gt;- The Richest Man in Babylon&lt;/a
+&gt;&lt;img
+  src=&quot;//ir-in.amazon-adsystem.com/e/ir?t=harshbhut-21&amp;l=am2&amp;o=31&amp;a=1939438632&quot;
+  width=&quot;1&quot;
+  height=&quot;1&quot;
+  border=&quot;0&quot;
+  alt=&quot;&quot;
+  style=&quot;border: none !important; margin: 0px !important;&quot;
+/&gt;
+&lt;br /&gt;
+&lt;a
+  target=&quot;_blank&quot;
+  href=&quot;https://www.amazon.in/gp/product/0241019443/ref=as_li_tl?ie=UTF8&amp;camp=3638&amp;creative=24630&amp;creativeASIN=0241019443&amp;linkCode=as2&amp;tag=harshbhut-21&amp;linkId=cb24da40b7f4e47667f97e1e7b6fb936&quot;
+  &gt;- The One - Page Financial Plan&lt;/a
+&gt;&lt;img
+  src=&quot;//ir-in.amazon-adsystem.com/e/ir?t=harshbhut-21&amp;l=am2&amp;o=31&amp;a=0241019443&quot;
+  width=&quot;1&quot;
+  height=&quot;1&quot;
+  border=&quot;0&quot;
+  alt=&quot;&quot;
+  style=&quot;border: none !important; margin: 0px !important;&quot;
+/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;h6
+  style=&quot;
+    font-size: 20px;
+    background: linear-gradient(
+      330deg,
+      #ff9933 20%,
+      #ffffff 50%,
+      #138808 55%,
+      #ff9933 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  &quot;
+&gt;
+  Jai Hind
+  &lt;img
+    src=&quot;/img/flag.png&quot;
+    style=&quot;margin-left: right; margin-right: right;&quot;
+    alt=&quot;Flag&quot;
+  /&gt;
+&lt;/h6&gt;</content><author><name>Harsh</name></author><summary type="html">&quot;The strongest force in the universe is Compound Interest&quot; - Albert Einstein</summary></entry><entry><title type="html">Smart Goals</title><link href="http://localhost:4000/smartgoals.html/" rel="alternate" type="text/html" title="Smart Goals" /><published>2020-04-29T00:00:00+05:30</published><updated>2020-04-29T00:00:00+05:30</updated><id>http://localhost:4000/smart-goals</id><content type="html" xml:base="http://localhost:4000/smartgoals.html/">&lt;!-- &lt;h4 style=&quot;color: #000080;&quot;&gt;
   What is Financial Independence ?
 &lt;/h4&gt; --&gt;
 &lt;blockquote class=&quot;blockquote&quot;&gt;
