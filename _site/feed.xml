@@ -1,4 +1,168 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-08T19:40:58+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Finvestik</title><subtitle>The most important investment you can make is in yourself.</subtitle><author><name>Harsh</name></author><entry><title type="html">Compound Interest</title><link href="http://localhost:4000/compound-interest.html/" rel="alternate" type="text/html" title="Compound Interest" /><published>2020-05-08T00:00:00+05:30</published><updated>2020-05-08T00:00:00+05:30</updated><id>http://localhost:4000/compound-interest</id><content type="html" xml:base="http://localhost:4000/compound-interest.html/">&lt;blockquote class=&quot;blockquote&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-02T22:44:26+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Finvestik</title><subtitle>The most important investment you can make is in yourself.</subtitle><author><name>Harsh</name></author><entry><title type="html">Investment Vehicles - 1</title><link href="http://localhost:4000/investment-vehicles-1.html/" rel="alternate" type="text/html" title="Investment Vehicles - 1" /><published>2020-06-02T00:00:00+05:30</published><updated>2020-06-02T00:00:00+05:30</updated><id>http://localhost:4000/investment-vehicles-1</id><content type="html" xml:base="http://localhost:4000/investment-vehicles-1.html/">&lt;!-- &lt;h4 style=&quot;color: #000080;&quot;&gt;
+  What is Financial Independence ?
+&lt;/h4&gt; --&gt;
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+  “When it comes to investing, we want our money to grow with the highest rates
+  of return, and the lowest risk possible. While there are no shortcuts to
+  getting rich, there are smart ways to go about it.” – Phil Town
+&lt;/blockquote&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Past few blogs, We have seen inflation and compounding and now we are at
+  stage to choose our investment options and start creating our wealth.
+&lt;/p&gt;
+
+&lt;h4 style=&quot;color: #000080;&quot;&gt;
+  How to Choose Right Investment Options?
+&lt;/h4&gt;
+&lt;br /&gt;
+
+&lt;img
+  src=&quot;/img/posts/Risk-Return-Liquidity.webp&quot;
+  style=&quot;
+    width: 100%;
+    height: auto !important;
+    max-width: 1000px;
+    -ms-interpolation-mode: bicubic;
+  &quot;
+  alt=&quot;Risk-Return-Liquidity&quot;
+/&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  In any investment option risk, return and liquidity will affect our investment. Risk and return are working simultaneously with each other.
+  There is a basic rule in financial world
+  &lt;b&gt;&quot;High Risk, High Potential Returns&quot;&lt;/b&gt;&quot;.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  In a bank FD we get a return around 7% where the risk is very less also the
+  returns. While in stock market risk and potential returns are high however there is a chance that the principal amount will not intact while investing
+  in the stock market.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Now look at Liquidity, In bank FD we can break our FD whenever we want, while in stock
+  market we can get invested amount after 2 days of selling shares.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  We need to diversify across all the segments to manage our risk, return and
+  liquidity. So let's start and select our best suitable option to invest.
+&lt;/p&gt;
+
+&lt;h4 style=&quot;color: #000080;&quot;&gt;
+  Investment Vehicles...
+&lt;/h4&gt;
+&lt;p&gt;
+  - Bank Deposits &lt;br /&gt;
+  - Post Office Schemes &lt;br /&gt;
+  - Public Provident Fund &lt;br /&gt;
+  - Bullion &lt;br /&gt;
+  - Real Estate &lt;br /&gt;
+  - Bonds/Debatures &lt;br /&gt;
+  - Equity (Shares) &lt;br /&gt;
+  - Mutual Fund
+&lt;/p&gt;
+
+&lt;h4 style=&quot;color: #000080;&quot;&gt;
+  1. Bank Deposits
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  - Fixed Deposit - Investing lumpsump amount at a time.&lt;br /&gt;
+  - Recurring Deposit - Keep on Investing monthly with absolute dicipline.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  The most basic type of investment people do is in banks with either in FD or RD.
+  But do we know what suite us and which scheme fetch the better
+  return for an investor? let's checkout with small calculation.
+&lt;/p&gt;
+
+&lt;img
+  src=&quot;/img/posts/Fixed deposit vs recurring deposit.webp&quot;
+  style=&quot;
+    width: 100%;
+    height: auto !important;
+    max-width: 1000px;
+    -ms-interpolation-mode: bicubic;
+  &quot;
+  alt=&quot;Risk-Return-Liquidity&quot;
+/&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  You can download the excel file from
+  &lt;a target=&quot;_blank&quot; href=&quot;https://drive.google.com/file/d/1ebWOjfoFfAH_S6V3xR0ffbc7Xr7kE9V2/view?usp=sharing&quot; style=&quot;color: red;&quot;&gt;here&lt;/a&gt;. Here, I took the FD
+  investment amount invested at one time and the same amount invested through RD
+  in a span of 12 months. We can clearly saw that FD fetches more returns than RD.
+  In FD invested money fetch the return of 7% per annum while in RD only 1&lt;sup
+    &gt;st&lt;/sup
+  &gt;
+  month invested amount fetch return of 7% while the last invested amount only
+  fetches the return of 1 month. If possible, you should try to invest in FD rather than RD.
+&lt;/p&gt;
+
+&lt;h4 style=&quot;color: #000080;&quot;&gt;
+  Emergency Fund
+&lt;/h4&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  In my first blog I have asked you a question to ask yourself
+  &lt;b
+    &gt;&lt;span style=&quot;font-style: italic;&quot;
+      &gt;Do I have emergency fund that last 6 months ?&lt;/span
+    &gt;&lt;/b
+  &gt;
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Now, If your answer is yes then it's awesome else no need to disappoint,
+  We will create our own emergency fund.
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Before start investing in any of the above mentioned instrument first, We should have
+  emergency fund that lasts 6 months. But here you might have a question how much
+  money do I need to keep in my emergency fund? 
+  
+  &lt;h6 style=&quot;color: red;&quot;&gt;
+    Emergency Fund = Basic household expenses x 6
+  &lt;/h6&gt;
+
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  From your income try to keep some amount on a montly basis and start creating
+  emergency fund and put that money into saving account don't think of any return in saving account, 
+  don't use it unless and until you have a financial crisis. Keep
+  on evaluating your expenses every year and based on that maintain your emergency
+  fund.
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;
+  Now, that we have learned the 1&lt;sup&gt;st&lt;/sup&gt; investment instrument and emergency fund. 
+  In coming blogs we will see all the remaining investment options up to that try to get some basic information for other instrument options and &quot;STAY SAFE&quot;.✌️😀
+&lt;/p&gt;
+
+&lt;h6
+  style=&quot;
+    font-size: 20px;
+    background: linear-gradient(
+      330deg,
+      #ff9933 20%,
+      #ffffff 50%,
+      #138808 55%,
+      #ff9933 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  &quot;
+&gt;
+  Jai Hind
+  &lt;img
+    src=&quot;/img/flag.png&quot;
+    style=&quot;margin-left: right; margin-right: right;&quot;
+    alt=&quot;Flag&quot;
+  /&gt;
+&lt;/h6&gt;</content><author><name>Harsh</name></author><summary type="html">“When it comes to investing, we want our money to grow with the highest rates of return, and the lowest risk possible. While there are no shortcuts to getting rich, there are smart ways to go about it.” – Phil Town</summary></entry><entry><title type="html">Compound Interest</title><link href="http://localhost:4000/compound-interest.html/" rel="alternate" type="text/html" title="Compound Interest" /><published>2020-05-08T00:00:00+05:30</published><updated>2020-05-08T00:00:00+05:30</updated><id>http://localhost:4000/compound-interest</id><content type="html" xml:base="http://localhost:4000/compound-interest.html/">&lt;blockquote class=&quot;blockquote&quot;&gt;
   &quot;The strongest force in the universe is Compound Interest&quot; - Albert Einstein
 &lt;/blockquote&gt;
 
